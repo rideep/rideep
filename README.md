@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on LLM,Open AI api,Agent AI
+I'm currently working on LLM,Open AI SDK,Agent AI
 
 
 # 💻 Tech Stack:
